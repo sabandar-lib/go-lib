@@ -1,0 +1,13 @@
+# 2026/05/04 18:54:48.783353 [TestProperty14_CSVExportImportRoundTrip] [rapid] draw numCols: 1
+# 2026/05/04 18:54:48.783356 [TestProperty14_CSVExportImportRoundTrip] [rapid] draw col0_kind: 2
+# 2026/05/04 18:54:48.783357 [TestProperty14_CSVExportImportRoundTrip] [rapid] draw col0_bytes: ""
+# 2026/05/04 18:54:48.783358 [TestProperty14_CSVExportImportRoundTrip] col 0: CSV round-trip error: EOF
+# 
+v0.4.8#13310163803292509150
+0x0
+0x0
+0x0
+0x0
+0x38e38e38e38e4
+0x2
+0x0

@@ -1,4 +1,4 @@
-module github.com/sabandar-lib/go-libs
+module github.com/sabandar-lib/go-lib
 
 go 1.25.0
 
